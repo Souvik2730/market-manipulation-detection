@@ -72,7 +72,7 @@ jupyter notebook
 
 ---
 
-📈 Methodology
+## 📈 Methodology
 
 Data Collection
 
@@ -102,7 +102,7 @@ Plot anomalies on a price chart.
 
 ---
 
-📊 Example Output
+## 📊 Example Output
 
 Number of anomaly days detected: 0
 
@@ -122,13 +122,13 @@ Jupyter Notebook – Interactive analysis
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify with attribution.
 
 ---
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 Souvik Ghorui
 📧 Email: ghoruisouvik7@gmail.com
@@ -137,8 +137,9 @@ Souvik Ghorui
 
 ---
 
-⭐ How to Support
+## ⭐ How to Support
 
 If you found this project helpful, please star this repository on GitHub.
 
 Your support motivates me to create more projects!
+
