@@ -37,6 +37,13 @@ Market-Manipulation-Detection/
 
 ---
 
+## 🖼 Project Screenshots
+| Anomaly Detection Chart | Price vs Volume Chart |
+|-------------------------|-----------------------|
+| ![Anomalies Chart](charts/anomalies_chart.png) | ![Price Volume Chart](charts/price_volume_chart.png) |
+
+---
+
 ## 🚀 How to Run This Project
 
 ### **Option 1: Run on Google Colab (Recommended)**
@@ -48,8 +55,9 @@ No installation is required — runs directly in your browser.
 ### **Option 2: Run Locally**
 
 1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/YOUR_USERNAME/market-manipulation-detection.git
+``bash
+
+git clone https://github.com/Souvik2730/market-manipulation-detection.git
 cd market-manipulation-detection
 
 2️⃣ Create a virtual environment
@@ -125,3 +133,5 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ## ⭐ How to Support
 If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
+
+
