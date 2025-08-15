@@ -70,6 +70,7 @@ jupyter notebook
 
 6️⃣ Open analysis.ipynb and Run All Cells.
 
+---
 
 📈 Methodology
 
@@ -99,6 +100,8 @@ Visualization
 
 Plot anomalies on a price chart.
 
+---
+
 📊 Example Output
 
 Number of anomaly days detected: 0
@@ -117,9 +120,13 @@ Matplotlib – Visualization
 
 Jupyter Notebook – Interactive analysis
 
+---
+
 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify with attribution.
+
+---
 
 🙋‍♂️ Author
 
@@ -128,7 +135,10 @@ Souvik Ghorui
 🔗 LinkedIn: https://www.linkedin.com/in/souvik-ghorui273/
 💻 GitHub: https://github.com/Souvik2730
 
+---
+
 ⭐ How to Support
 
 If you found this project helpful, please star this repository on GitHub.
+
 Your support motivates me to create more projects!
