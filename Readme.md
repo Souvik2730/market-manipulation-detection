@@ -40,7 +40,7 @@ Market-Manipulation-Detection/
 ## 🖼 Project Screenshots
 | Anomaly Detection Chart | Price vs Volume Chart |
 |-------------------------|-----------------------|
-| ![Anomalies Chart](charts/price_anomalies.png) | ![Price Volume Chart](charts/price_volume_chart.png) |
+| ![Anomalies Chart](charts/price_anomalies.png) | ![Price Volume Chart](charts/volume_anomalies.png) |
 
 ---
 
@@ -133,6 +133,7 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ## ⭐ How to Support
 If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
+
 
 
 
