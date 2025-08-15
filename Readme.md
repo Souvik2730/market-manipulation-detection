@@ -74,72 +74,54 @@ jupyter notebook
 
 ## 📈 Methodology
 
-Data Collection
+### 1. Data Collection
+- Download historical stock data (NSE: Reliance Industries Ltd.).
 
-Download historical stock data (NSE: Reliance Industries Ltd.).
+### 2. Data Preprocessing
+- Convert date columns to datetime format.
+- Sort chronologically.
+- Remove missing values.
 
-Data Preprocessing
+### 3. Feature Engineering
+- Calculate **intraday return percentage**.
+- Detect **volume spikes** using mean & standard deviation thresholds.
 
-Convert date columns to datetime format.
+### 4. Anomaly Detection
+- Flag days with both unusual volume and large price change.
 
-Sort chronologically.
-
-Remove missing values.
-
-Feature Engineering
-
-Calculate intraday return percentage.
-
-Detect volume spikes using mean & standard deviation thresholds.
-
-Anomaly Detection
-
-Flag days with both unusual volume and large price change.
-
-Visualization
-
-Plot anomalies on a price chart.
+### 5. Visualization
+- Plot anomalies on a price chart.
 
 ---
 
 ## 📊 Example Output
+- **Number of anomaly days detected:** 0  
+- **Charts generated:** Stored in `charts/` folder  
+- **CSV results:** Stored in `outputs/anomalies_detected.csv`
 
-Number of anomaly days detected: 0
+---
 
-Charts generated: Stored in charts/ folder
-
-CSV results: Stored in outputs/anomalies_detected.csv
-
-🛠️ Technologies Used
-
-Python 3.9+
-
-Pandas – Data handling
-
-Matplotlib – Visualization
-
-Jupyter Notebook – Interactive analysis
+## 🛠️ Technologies Used
+- **Python 3.9+**
+- **Pandas** – Data handling
+- **Matplotlib** – Visualization
+- **Jupyter Notebook** – Interactive analysis
 
 ---
 
 ## 📜 License
-
-This project is licensed under the MIT License – feel free to use and modify with attribution.
+This project is licensed under the **MIT License** – feel free to use and modify with attribution.
 
 ---
 
 ## 🙋‍♂️ Author
-
-Souvik Ghorui
-📧 Email: ghoruisouvik7@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/souvik-ghorui273/
-💻 GitHub: https://github.com/Souvik2730
+**Souvik Ghorui**  
+📧 Email: ghoruisouvik7@gmail.com  
+🔗 LinkedIn: (https://www.linkedin.com/in/souvik-ghorui273/)  
+💻 GitHub: (https://github.com/Souvik2730)  
 
 ---
 
 ## ⭐ How to Support
-
-If you found this project helpful, please star this repository on GitHub.
-
+If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
-
