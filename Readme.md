@@ -129,11 +129,15 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 
+## ⚠️ Disclaimer
+This project is intended **solely for educational and research purposes**.  
+It does **not** constitute financial or investment advice.  
+Stock market investments involve risks, and you should conduct your own research or consult a qualified financial advisor before making any trading or investment decisions.
+
+---
+
 ## ⭐ How to Support
 If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
-
-
-
 
 
