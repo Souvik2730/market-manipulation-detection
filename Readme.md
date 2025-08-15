@@ -55,26 +55,25 @@ No installation is required — runs directly in your browser.
 ### **Option 2: Run Locally**
 
 1️⃣ **Clone the repository**  
-``bash
 
 git clone https://github.com/Souvik2730/market-manipulation-detection.git
 cd market-manipulation-detection
 
-2️⃣ Create a virtual environment
+2️⃣ Create a virtual environment: 
 python -m venv venv
 
 3️⃣ Activate the environment
+
 Windows PowerShell:
 venv\Scripts\Activate.ps1
 
 Mac/Linux:
 source venv/bin/activate
 
-4️⃣ Install dependencies
+4️⃣ Install dependencies: 
 pip install -r requirements.txt
 
 5️⃣ Run Jupyter Notebook
-jupyter notebook
 
 6️⃣ Open analysis.ipynb and Run All Cells.
 
@@ -133,6 +132,7 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ## ⭐ How to Support
 If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
+
 
 
 
