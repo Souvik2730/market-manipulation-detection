@@ -11,6 +11,13 @@ For demonstration, this project analyzes historical stock data for **Reliance In
 
 ---
 
+## 🖼 Project Screenshots
+| Anomaly Detection Chart | Price vs Volume Chart |
+|-------------------------|-----------------------|
+| ![Anomalies Chart](charts/price_anomalies.png) | ![Price Volume Chart](charts/volume_anomalies.png) |
+
+---
+
 ## 📊 Key Features
 - ✅ Automated anomaly detection using **intraday returns** & **volume spikes**
 - 📂 Saves results in `outputs/` folder
@@ -34,13 +41,6 @@ Market-Manipulation-Detection/
 ├── README.md
 ├── requirements.txt
 ├── analysis.ipynb
-
----
-
-## 🖼 Project Screenshots
-| Anomaly Detection Chart | Price vs Volume Chart |
-|-------------------------|-----------------------|
-| ![Anomalies Chart](charts/price_anomalies.png) | ![Price Volume Chart](charts/volume_anomalies.png) |
 
 ---
 
@@ -139,5 +139,6 @@ Stock market investments involve risks, and you should conduct your own research
 ## ⭐ How to Support
 If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
+
 
 
